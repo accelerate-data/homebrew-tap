@@ -12,7 +12,7 @@ brew tap accelerate-data/homebrew-tap
 
 ### ad-migration
 
-CLI tool for migrating warehouse stored procedures to dbt models.
+CLI that re-engineers warehouse stored procedures as dbt models.
 
 ```bash
 brew install ad-migration
